@@ -47,7 +47,7 @@
     "jszip-utils": "~0.0.2"
   },
   "dependencies":{
-    "pako": "~0.2.5"
+    "pako": "~0.2.3"
   },
   "license": "MIT or GPLv3"
 }
